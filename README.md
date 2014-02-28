@@ -1,4 +1,4 @@
-tbarmann.github.io
-==================
+# GithubTeacher's home page
 
-Example repo and site for NICAR
+--
+Some more text here.
